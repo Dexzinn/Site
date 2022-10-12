@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Yeseva+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body{
+    background-color: #588CFC;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+
+}
+.amongus {
+    color: #F0C900;
+    font-family: 'Bitter', serif;
+}
+.pr{
+    text-align: center;
+    color: rgb(189, 217, 241);
+    width: 150px;
+}
+
+#oqe{
+    text-align: justify;
+    font-family: 'Lato', sans-serif;
+    color: #fafafa;
+}
+hr{
+    background-color: rgb(121, 194, 228);
+    height: 10px;
+
+}
+#pix {
+    text-decoration: none;
+    color: rgb(15, 11, 12);
+    font-family: Arial, Helvetica, sans-serif;
+}
